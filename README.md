@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ruancard
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning python and yours libraries
